@@ -1,7 +1,7 @@
 # COOK OFF
 Cook off is similar to other team based cooking games such as Overcooked built with a player vs player twist. Instead of trying to work together, sabotage each others dish by taking their ingredients and pushing them out of the way! First person to submit the best dish under the time limit wins!
 
-Video demo [here](https://www.youtube.com/watch?v=iJSWnNqPqfo)
+Video demo [here](https://www.youtube.com/watch?v=XXUq3NIeNRs)
 
 ## BUILT USING
 - [Unity](https://unity.com/download) - A game engine designed for real-time 3D & 2D projects
